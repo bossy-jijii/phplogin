@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "OURWEBSITE",
+			"path": "../../../../../Users/utilisateur/Desktop/OURWEBSITE"
+		},
+		{
+			"name": "phplogin",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5502,
+		"liveServer.settings.multiRootWorkspaceName": "phplogin"
+	}
+}

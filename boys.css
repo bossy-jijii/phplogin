@@ -1,0 +1,207 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Roboto:ital,wght@1,700&display=swap');
+
+
+body{
+  background-color:rgb(167, 231, 229);
+  background-repeat: no-repeat;
+  background-size: 1900px;
+  background-position: center center;
+}
+
+#cent{
+
+  color: rgb(0, 128, 115);
+  text-align: center;
+  text-decoration: dotted;
+  font-family:'Roboto', sans-serif;
+  font-weight: bolder;
+  font-size: 80px;
+}
+.pics{
+  display:inline-flex;
+
+}
+.img12{
+  width: 350px;
+  height:350px;
+  float:right;
+  margin-top:-6px;
+  margin-right:30px;
+  margin-left: 6px;
+  margin-bottom: 20px;
+  display:flex;
+}
+.img13{
+  width:350px;
+  height:350px;
+  margin-top:-6px;
+  margin-right:30px;
+  margin-left: 40px;
+  margin-bottom: 20px;
+
+}
+.img14{
+  width:350px;
+  height:350px;
+  margin-top:-6px;
+  margin-right:30px;
+  margin-left: 30px;
+  margin-bottom: 20px;
+
+}
+.picss{
+  display:inline-flex;
+
+}
+.img144{
+  width:350px;
+  height:350px;
+  float:right;
+  margin-top:40px;
+  margin-right:30px;
+  margin-left: 6px;
+  display:flex;
+}
+
+.img15{
+  width:350px;
+  height:350px;
+  margin-top:40px;
+  margin-right:30px;
+  margin-left: 40px;
+}
+.img16{
+  width:350px;
+  height:350px;
+  margin-top:40px;
+  margin-right:30px;
+  margin-left: 40px;
+}
+.pics .pew .pic12{
+  justify-content: end;
+  display:inline-flex;
+  margin-top: -4px;
+  margin-left: 170px;
+  color:rgb(0, 128, 115);
+  font-family: 'Roboto', sans-serif;
+
+}
+.pics .peww .pic13{
+  justify-content: end;
+  display:inline-flex;
+  margin-top: -4px;
+  margin-left: 170px;
+  color: rgb(0, 128, 115);
+  font-family: 'Roboto', sans-serif;
+
+}
+.pics .pewww .pic14{
+  justify-content: end;
+  display:inline-flex;
+  margin-top: -4px;
+  margin-left: 170px;
+  color:rgb(0, 128, 115);
+  font-family: 'Roboto', sans-serif;
+
+}
+
+.pics  #mybtn {
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  margin-left:190px;
+  margin-top:-5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  background-color: #5a7e96; /* Background color */
+  color: #fff; /* Text color */
+  border: 2px outset #6388a1; /* Border color */
+  border-radius: 5px; /* Border radius for rounded corners */
+  cursor: pointer; /* Show hand cursor on hover */
+  transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transition effect */
+}
+
+/* Hover effect */
+.pics  #mybtn:hover {
+    background-color: #74c7ff; /* Darker background color on hover */
+    color: #fff; /* Lighter text color on hover */
+}
+
+
+.picss .vew .pic144{
+  justify-content: end;
+  display:inline-flex;
+  margin-top: 5px;
+  margin-left: 170px;
+  color: rgb(0, 128, 115);
+  font-family: 'Roboto', sans-serif;
+
+}
+.picss .veww .pic15{
+  justify-content: end;
+  display:inline-flex;
+  margin-top: 5px;
+  margin-left: 170px;
+  color: rgb(0, 128, 115);
+  font-family: 'Roboto', sans-serif;
+
+}
+.picss .vewww .pic16{
+  justify-content: end;
+  display:inline-flex;
+  margin-top: 5px;
+  margin-left: 170px;
+  color:rgb(0, 128, 115);
+  font-family: 'Roboto', sans-serif;
+
+}
+.picss  #mybtn {
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    margin-left:190px;
+    margin-top:-5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    background-color: #5a7e96; /* Background color */
+    color: #fff; /* Text color */
+    border: 2px outset #6388a1; /* Border color */
+    border-radius: 5px; /* Border radius for rounded corners */
+    cursor: pointer; /* Show hand cursor on hover */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transition effect */
+}
+
+/* Hover effect */
+.picss  #mybtn:hover {
+    background-color: #74c7ff; /* Darker background color on hover */
+    color: #fff; /* Lighter text color on hover */
+}
+.last #btnn{
+  display: inline-block;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    background-color: rgb(222, 243, 103); /* Background color */
+    color: #0d0303; /* Text color */
+    border: 2px outset #dede7e; /* Border color */
+    border-radius: 5px; /* Border radius for rounded corners */
+    cursor: pointer; /* Show hand cursor on hover */
+    transition: 0.3s ease, color 0.3s ease; 
+    padding: 10px 10px 10px 10px;
+    margin-left:590px;
+    margin-top: 30px;
+}
+.last #btnn:hover {
+  background-color: #e5f22c; /* Darker background color on hover */
+  color: #090404; /* Lighter text color on hover */
+}
